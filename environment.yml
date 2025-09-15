@@ -1,0 +1,12 @@
+name: colortqdm
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - twine
+  - wheel
+  - numpy
+  - tqdm=4.67.1
+  - pip
+  - pip:
+    - setuptools
