@@ -6,7 +6,7 @@ dependencies:
   - twine
   - wheel
   - numpy
-  - tqdm=4.67.1
   - pip
   - pip:
     - setuptools
+    - colortqdm
